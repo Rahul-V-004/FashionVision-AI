@@ -1,0 +1,39 @@
+Fashion Product Dataset - EDA Summary
+=====================================
+
+Total products analyzed: 44446
+
+General Statistics:
+- Number of unique brands: 424
+- Number of unique article types: 143
+- Gender distribution: {'Men': np.int64(22165), 'Women': np.int64(18632), 'Unisex': np.int64(2164), 'Boys': np.int64(830), 'Girls': np.int64(655)}
+- Price range: ₹0.0 to ₹28950.0
+- Average price: ₹1690.56
+- Median price: ₹1199.00
+
+Top 5 Brands:
+- Nike: 2203 products
+- Puma: 2098 products
+- ADIDAS: 1923 products
+- United Colors of Benetton: 1563 products
+- Fabindia: 751 products
+
+Top 5 Article Types:
+- Tshirts: 7070 products
+- Shirts: 3217 products
+- Casual Shoes: 2846 products
+- Watches: 2542 products
+- Sports Shoes: 2036 products
+
+Top 5 Colors:
+- Black: 9732 products
+- White: 5540 products
+- Blue: 4922 products
+- Brown: 3494 products
+- Grey: 2741 products
+
+Product Attributes:
+- Products with inventory: 431 (1.0%)
+- Active products: 44446 (100.0%)
+- Returnable products: 39832 (89.6%)
+- Exchangeable products: 39523 (88.9%)
